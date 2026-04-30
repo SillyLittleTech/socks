@@ -1,0 +1,20 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Digital safety map</title>
+  <desc id="desc">An illustrated map of practical digital safety topics connected by paths.</desc>
+  <rect width="960" height="540" rx="36" fill="#F8FBF1"/>
+  <path d="M112 376c93-126 184-171 273-135 116 47 136 166 276 131 73-18 124-67 187-148" stroke="#BCD7C7" stroke-width="24" stroke-linecap="round"/>
+  <path d="M112 376c93-126 184-171 273-135 116 47 136 166 276 131 73-18 124-67 187-148" stroke="#0D7F6E" stroke-width="8" stroke-linecap="round"/>
+  <rect x="86" y="326" width="164" height="94" rx="18" fill="#103D36"/>
+  <rect x="301" y="178" width="174" height="104" rx="18" fill="#2F5AA8"/>
+  <rect x="541" y="322" width="174" height="104" rx="18" fill="#D68152"/>
+  <rect x="715" y="141" width="165" height="100" rx="18" fill="#F3C84D"/>
+  <path d="m139 372 23 23 48-57" stroke="#F8FBF1" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M367 218h42m-42 31h67" stroke="#F8FBF1" stroke-width="14" stroke-linecap="round"/>
+  <path d="M602 356v40m-21-20h42" stroke="#F8FBF1" stroke-width="14" stroke-linecap="round"/>
+  <path d="M777 190c13-24 43-24 56 0" stroke="#103D36" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="805" cy="205" r="9" fill="#103D36"/>
+  <circle cx="171" cy="82" r="14" fill="#65D6BD"/>
+  <circle cx="514" cy="115" r="12" fill="#D68152"/>
+  <circle cx="820" cy="395" r="16" fill="#2F5AA8"/>
+  <path d="M147 462h664" stroke="#E0E8D6" stroke-width="10" stroke-linecap="round"/>
+</svg>
