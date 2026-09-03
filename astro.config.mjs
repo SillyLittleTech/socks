@@ -7,7 +7,7 @@ import { defineConfig } from 'astro/config';
 const enableKeystatic = process.env.ENABLE_KEYSTATIC === 'true' || process.env.NODE_ENV !== 'production';
 
 export default defineConfig({
-  site: 'https://socks.sillylittle.tech',
+  site: 'https://socks.slt.ong',
   integrations: [
     react(),
     markdoc(),
